@@ -32,3 +32,4 @@ jobs:
         with:
           # Target URL
           target: "https://dotnetthoughts.net"
+          rules_file_name: ".zap/rules.tsv"
